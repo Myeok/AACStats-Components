@@ -21,7 +21,7 @@
       "sha256": "859fe4f17251e41f76f40a77f42e2be8ddabd34488f82a2a8fb88b1feb7f73ae",
       "type": 2
     },
-   "WebInterface": {
+   "WebApp": {
       "name": "WebApp.zip",
       "version": "1.0.0",
       "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/webapp.zip",
