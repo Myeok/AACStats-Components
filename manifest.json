@@ -4,14 +4,14 @@
       "name": "AACStatsLauncher.exe",
       "version": "1.0.0",
       "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsLauncher.exe",
-      "sha256": "b48b0f64abc7b6dc209a6ced087ce563aa55edbf36901af8b89e987f93de2130",
+      "sha256": "31a16a03782a3c0487300b201fe369b0a10dc76c86447a336f5b9bbf3a147e46",
       "type": 0
     },
    "Updater": {
       "name": "AACStatsUpdater.exe",
       "version": "1.0.0",
       "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsUpdater.exe",
-      "sha256": "da17f75f7fb75b26b6261731ac14919725993a62b8789e70d9d2ffed94e78ba5",
+      "sha256": "efb55c6eda0ccda24e541a7fe9d23d9a4991f1d14df0c936c4660ff12c5e31e4",
       "type": 1
     },
    "Service": {
