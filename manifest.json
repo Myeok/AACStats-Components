@@ -5,34 +5,34 @@
       "version": "1.0.0",
       "url": "",
       "sha256": "",
-      "type": 0,
+      "type": 0
     },
    "Updater": {
       "name": "AACStatsUpdater.exe",
       "version": "1.0.0",
       "url": "",
       "sha256": "",
-      "type": 1,
+      "type": 1
     },
    "Service": {
       "name": "AACStatsService.exe",
       "version": "1.0.0",
       "url": "",
       "sha256": "",
-      "type": 2,
+      "type": 2
     }
    "WebInterface": {
       "name": "WebApp.zip",
       "version": "1.0.0",
       "url": "",
       "sha256": "",
-      "type": 3,
+      "type": 3
     },
     "Addon": {
       "name": "aacstatistics",
       "version": "1.0.0",
       "url": "",
       "sha256": "",
-      "type": 4,
-    },
+      "type": 4
+    }
   }
