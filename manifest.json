@@ -3,36 +3,36 @@
     "Launcher": {
       "name": "AACStatsLauncher.exe",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsLauncher.exe",
+      "sha256": "b48b0f64abc7b6dc209a6ced087ce563aa55edbf36901af8b89e987f93de2130",
       "type": 0
     },
    "Updater": {
       "name": "AACStatsUpdater.exe",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsUpdater.exe",
+      "sha256": "767944c97fe112812568848805dd81c376789152708689d64ca61fb9c0580d64",
       "type": 1
     },
    "Service": {
       "name": "AACStatsService.exe",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsService.exe",
+      "sha256": "859fe4f17251e41f76f40a77f42e2be8ddabd34488f82a2a8fb88b1feb7f73ae",
       "type": 2
     },
    "WebInterface": {
       "name": "WebApp.zip",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/webapp.zip",
+      "sha256": "767944c97fe112812568848805dd81c376789152708689d64ca61fb9c0580d64",
       "type": 3
     },
     "Addon": {
       "name": "aacstatistics",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/addon.zip",
+      "sha256": "47d03d88f55d4d5b80a150d74255b3328b41d806221090e28642c0e170f00d94",
       "type": 4
     }
   }
