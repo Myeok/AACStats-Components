@@ -16,9 +16,9 @@
     },
    "Service": {
       "name": "AACStatsService.exe",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsService.exe",
-      "sha256": "1529603dcc02bc22dd3d10ee813e7900669b0dbd35f69b1e0bf7b15cd2eebda2",
+      "sha256": "ee37c2d9d2425e1699aef60a25ee0e0805064fc1d41b23b03a5d7cb459970acb",
       "type": 2
     },
    "WebApp": {
