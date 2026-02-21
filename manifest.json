@@ -23,9 +23,9 @@
     },
    "WebApp": {
       "name": "WebApp.zip",
-      "version": "1.1.0",
-      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/webapp.zip",
-      "sha256": "0570ecceca0935da839dd3f67134510a0a4febc417cbd462ff51a13d4ef3a761",
+      "version": "1.1.1",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/WebApp-v1.1.1/webapp.zip",
+      "sha256": "5bcb5bfae39d2507586dcc7b87fa56c9b5c3dbe249c78d58ee01d7b991922176",
       "type": 3
     },
     "Addon": {
