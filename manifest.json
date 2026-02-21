@@ -9,16 +9,16 @@
     },
    "Updater": {
       "name": "AACStatsUpdater.exe",
-      "version": "1.0.0",
-      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsUpdater.exe",
-      "sha256": "b669b549a8878a0c276ee8662c14d51b40b01c1db7738524e6fe072fb5a9c40a",
+      "version": "1.1.0",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/Updater-v1.1/AACStatsUpdater.exe",
+      "sha256": "a15611ad583f5e64bbd77395b903e49893386cfc8edab68b728e9c8f39a85f85",
       "type": 1
     },
    "Service": {
       "name": "AACStatsService.exe",
-      "version": "1.0.0",
-      "url": "https://github.com/Myeok/AACStats-Components/releases/download/1.0.0/AACStatsService.exe",
-      "sha256": "bb49617d414d66db6561d0afc7bbb6606ce19769a1c1e50819ff1ac8b45f55f1",
+      "version": "1.1.0",
+      "url": "https://github.com/Myeok/AACStats-Components/releases/download/Service-v1.1/AACStatsService.exe",
+      "sha256": "35c5e9d8eb64ce9190e4b3e6d36b5b8c402e0f34a9f548a1b86600aa6266a9b0",
       "type": 2
     },
    "WebApp": {
